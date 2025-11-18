@@ -13,7 +13,7 @@ import NotFound from './pages/NotFound';
 import Auth from './pages/Auth';
 import ProtectedRoute from './components/ProtectedRoute';
 import Orders from './pages/Orders';
-import Chat from './pages/chat';
+import Chat from './pages/Chat';
 import Toast from "./components/Toast";  // 👈 GLOBAL TOAST
 
 function App() {
